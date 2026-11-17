@@ -33,7 +33,15 @@ let books = [
         pages: 432,
         rating: 5
     }
+
+    {
+    title: "Harry Potter",
+    genre: "Fantasy",
+    pages: 650,
+    rating: 5
+    }
 ];
+
 
 function getBookColor(genre) {
 
