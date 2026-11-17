@@ -32,7 +32,7 @@ let books = [
         genre: "Classic",
         pages: 432,
         rating: 5
-    }
+    },
 
     {
     title: "Harry Potter",
