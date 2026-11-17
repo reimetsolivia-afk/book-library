@@ -68,8 +68,6 @@ function getBookColor(genre) {
     return "#806B55";
 }
 
-let height = 100 + book.pages / 5;
-
 
 function drawLibrary() {
 
